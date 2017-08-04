@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "302277001312",
+    "firebase_url": "https://piclock-c9af5.firebaseio.com",
+    "project_id": "piclock-c9af5",
+    "storage_bucket": "piclock-c9af5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302277001312:android:6d09a40d1a06715c",
+        "android_client_info": {
+          "package_name": "com.things.florian.piclock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302277001312-lgd6vhegr09dfoj9gc048kibr1lfq3at.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.things.florian.piclock",
+            "certificate_hash": "d69fc41f745b200bd822d2a2038c3dd1620e52a7"
+          }
+        },
+        {
+          "client_id": "302277001312-iu4hjalg7d0ohlol6beosg1c14srfcm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.things.florian.piclock",
+            "certificate_hash": "8b263e5de4bb3efbdeba6bfba41215d5be173724"
+          }
+        },
+        {
+          "client_id": "302277001312-u10qmol4mlfv4jptlb4u3c1io1cd2mf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1tdmiMBTd7oJOJ6falPzgCYvVDDZanyQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302277001312-u10qmol4mlfv4jptlb4u3c1io1cd2mf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302277001312:android:ce0a32714d5d774a",
+        "android_client_info": {
+          "package_name": "things.florian.com.piclockwidget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302277001312-tfktavdhqhkoc61pnadq0jdljtgr0nlm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "things.florian.com.piclockwidget",
+            "certificate_hash": "8b263e5de4bb3efbdeba6bfba41215d5be173724"
+          }
+        },
+        {
+          "client_id": "302277001312-u10qmol4mlfv4jptlb4u3c1io1cd2mf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1tdmiMBTd7oJOJ6falPzgCYvVDDZanyQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302277001312-u10qmol4mlfv4jptlb4u3c1io1cd2mf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PiClockWidget</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_1day">1 Day</string>
+    <string name="title_1week">1 Week</string>
+    <string name="title_1month">1 Month</string>
+    <string name="pressure">Pressure</string>
+    <string name="converted_temp">Converted Temperature</string>
+    <string name="temperature">Temperature</string>
+    <string name="cpu_temperature">CPU Temperature</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="widget">Widget display</string>
+    <string name="please_login">Please open the app in order to login</string>
+</resources>
