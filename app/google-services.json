@@ -37,7 +37,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB1tdmiMBTd7oJOJ6falPzgCYvVDDZanyQ"
+          "current_key": "AIzaSyBXRjcFjVrkdyL1ukoHp90IkU8LaZbS0Vs"
         }
       ],
       "services": {
@@ -81,7 +81,51 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyB1tdmiMBTd7oJOJ6falPzgCYvVDDZanyQ"
+          "current_key": "AIzaSyBXRjcFjVrkdyL1ukoHp90IkU8LaZbS0Vs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302277001312-u10qmol4mlfv4jptlb4u3c1io1cd2mf5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302277001312:android:8da6fa8fd40472a6",
+        "android_client_info": {
+          "package_name": "florian.com.areacalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302277001312-jv8scl0a0udsobpr62di93he4ua4981q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "florian.com.areacalculator",
+            "certificate_hash": "8b263e5de4bb3efbdeba6bfba41215d5be173724"
+          }
+        },
+        {
+          "client_id": "302277001312-u10qmol4mlfv4jptlb4u3c1io1cd2mf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXRjcFjVrkdyL1ukoHp90IkU8LaZbS0Vs"
         }
       ],
       "services": {

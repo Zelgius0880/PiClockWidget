@@ -7,10 +7,15 @@
     <string name="title_1week">1 Week</string>
     <string name="title_1month">1 Month</string>
     <string name="pressure">Pressure</string>
-    <string name="converted_temp">Converted Temperature</string>
     <string name="temperature">Temperature</string>
-    <string name="cpu_temperature">CPU Temperature</string>
-    <string name="appwidget_text">EXAMPLE</string>
-    <string name="widget">Widget display</string>
-    <string name="please_login">Please open the app in order to login</string>
+    <string name="now">Now</string>
+    <string name="elevation_format">Elevation: %.2fm</string>
+    <string name="pressure_format">%.0fhPa</string>
+    <string name="temperature_format">%.2f°C</string>
+
+    <string name="one_day">One day</string>
+    <string name="one_week">One week</string>
+    <string name="one_month">One month</string>
+    <string name="one_year">One year</string>
+
 </resources>
